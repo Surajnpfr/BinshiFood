@@ -31,4 +31,4 @@ All products are designed with an emphasis on taste, hygiene, and durable packag
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/binshi-easyeat-website.git
+   git clone https://surajnpfr.github.io/BinshiFood.git
